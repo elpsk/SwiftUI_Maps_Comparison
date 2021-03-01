@@ -2,7 +2,7 @@
 
 Scope of the example is to use the `UIViewRepresentable` to render both maps, Apple Map `MKMapView` and Google Map `GMSMapView` in order to try the different implementation of Pin image, callout, interactions, animations, etc...
 
---
+---
 
 The code looks like this:
 
@@ -17,12 +17,12 @@ struct ContentView: View {
 }
 ```
 
---
+---
 
 The app looks like this:  
-![](/Users/pascaal001/Desktop/MapsComparison_GIT/demo.png)
+![](demo.png)
 
---
+---
 
 In this example:  
 
@@ -33,7 +33,7 @@ In this example:
 - **render Apple Map** using Reprensentable
 
 
---
+---
 
 Feel free to add your extra example. *Pull requests are welcome*!
 
